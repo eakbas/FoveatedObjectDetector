@@ -1,10 +1,10 @@
 # Foveated Object Detector 
 
 This repository contains the MATLAB source for the Foveated Object Detector
-(FOD) described in our paper [1] and technical report [2].  The code was only
+(FOD) described in our paper [1] and technical report [2].  The code was 
 tested on (K)ubuntu Linux 14.04 (and 16.04) using MATLAB R2014a and above. 
 
-The script `main.m` contains example calls on how to  train and run the FOD
+The script `main.m` contains example calls that show how to  train and run the FOD
 (and also its sliding window (SW) version) on a sample dataset provided under
 `data/`.
 
