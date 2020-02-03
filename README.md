@@ -9,7 +9,7 @@ The script `main.m` contains example calls that show how to  train and run the F
 `data/`.
 
 
-[1] Akbas, E., & Eckstein, M. P. (2017). Object detection through search with a foveated visual system. PLoS Computational Biology, 13(10), e1005743.
+[1] Emre Akbas, Miguel P. Eckstein (2017). "Object detection through search with a foveated visual system." PLoS Computational Biology, 13(10), e1005743.
 
 [2] Emre Akbas, Miguel P. Eckstein, "Object Detection Through Exploration
 With A Foveated Visual Field," Technical report, Vision and Image Understanding Lab, University of
