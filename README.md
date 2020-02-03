@@ -1,12 +1,19 @@
 # Foveated Object Detector 
 
 This repository contains the MATLAB source for the Foveated Object Detector
-(FOD) described in our paper [1] and technical report [2].  The code was 
+(FOD) described in [our paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005743) [1] and [technical report](https://arxiv.org/abs/1408.0814) [2].  The code was 
 tested on (K)ubuntu Linux 14.04 (and 16.04) using MATLAB R2014a and above. 
 
 The script `main.m` contains example calls that show how to  train and run the FOD
 (and also its sliding window (SW) version) on a sample dataset provided under
 `data/`.
+
+
+[1] Akbas, E., & Eckstein, M. P. (2017). Object detection through search with a foveated visual system. PLoS Computational Biology, 13(10), e1005743.
+
+[2] Emre Akbas, Miguel P. Eckstein, "Object Detection Through Exploration
+With A Foveated Visual Field," Technical report, Vision and Image Understanding Lab, University of
+California Santa-Barbara. [Link](http://arxiv.org/abs/1408.0814)
 
 
 
@@ -134,10 +141,3 @@ xlabel('recall');
 ylabel('precision');
 ```
 
-## References 
-[1] Emre Akbas, Miguel P. Eckstein, "Object detection through search with a
-foveated visual system," PLOS Computational Biology, 2017, in press.
-
-[2] Emre Akbas, Miguel P. Eckstein, "Object Detection Through Exploration
-With A Foveated Visual Field," Vision and Image Understanding Lab, University of
-California Santa-Barbara. [Link](http://arxiv.org/abs/1408.0814)
